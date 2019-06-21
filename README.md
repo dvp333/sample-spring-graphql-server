@@ -1,1 +1,1 @@
-# springboot-graphql-sample
+# Sample Spring GraphQL Server
